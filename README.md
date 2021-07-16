@@ -9,11 +9,22 @@ Integrated Sign-In Autonomous Automated Check-In (ISAAC) is a vehicle tracking, 
 **See presentation [pitch deck](https://www.canva.com/design/DAENDCUXG08/kVDJERwxNIup3UGdIS2OiA/view?utm_content=DAENDCUXG08&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) for more details:** 
 
 ## How we built it
- When I looked at available resources and the timeline of the hackathon, I decided to use low code / no-code technology to develop the application.  This technology allowed me to spend more time on the design flow of the application and use standardized components for coding.
+When I looked at available resources and the timeline of the hackathon, I decided to use low code / no-code technology to develop the application.  This technology allowed me to spend more time on the design flow of the application and use standardized components for coding.
  
  ![Context Diagram](https://github.com/canedy/Ford-Smart-Vehicle-Connectivty-Challenge/blob/main/ISSAC%20Application%20-%20Context%20Diagram.PNG)
  
-
+ Using the following API workflow:
+ 
+ **Update Vehicle Location**
+ ![Context Diagram](https://github.com/canedy/Ford-Smart-Vehicle-Connectivty-Challenge/blob/main/Update%20vehicle%20location%20and%20meta%20data.PNG)
+ 
+ **Simulate Arrival**
+ ![Context Diagram](https://github.com/canedy/Ford-Smart-Vehicle-Connectivty-Challenge/blob/main/Simulate%20Arrival.PNG)
+ 
+ **Update Arrival**
+ ![Context Diagram](https://github.com/canedy/Ford-Smart-Vehicle-Connectivty-Challenge/blob/main/Update%20Arrival%20Time.PNG)
+ 
+ 
 **See presentation [pitch deck](https://www.canva.com/design/DAENDCUXG08/kVDJERwxNIup3UGdIS2OiA/view?utm_content=DAENDCUXG08&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) for more details:** 
 
 ## Challenges we ran into
